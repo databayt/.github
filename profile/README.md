@@ -10,3 +10,5 @@ Break free. Reclaim your hours.
 The Repository of **Wonders.** Think of our codebase as a living library where every contribution becomes part of something greater. From atomic components to complete templates, from blocks to micro-services to full automation solutions—we're creating the building blocks that will power tomorrow's businesses.
 
 Follow along as we **figure** this out together. This isn't just about building software; it's about creating a collaborative ecosystem where developers, businesses, and innovators unite to solve real problems. Every contribution you make doesn't just help one project—it becomes part of a growing foundation that serves countless businesses worldwide.
+
+![Time](time.png)
