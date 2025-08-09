@@ -11,4 +11,11 @@ The Repository of **Wonders.** Think of our codebase as a living library where e
 
 Follow along as we **figure** this out together. This isn't just about building software; it's about creating a collaborative ecosystem where developers, businesses, and innovators unite to solve real problems. Every contribution you make doesn't just help one project—it becomes part of a growing foundation that serves countless businesses worldwide.
 
-![Thumbnail](.github/thumb.png)
+## Documentation
+
+Visit http://databayt.org/docs to view the documentation.
+
+## Contributing
+
+Please read the [contributing guide](/CONTRIBUTING.md).
+
