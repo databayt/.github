@@ -11,4 +11,4 @@ The Repository of **Wonders.** Think of our codebase as a living library where e
 
 Follow along as we **figure** this out together. This isn't just about building software; it's about creating a collaborative ecosystem where developers, businesses, and innovators unite to solve real problems. Every contribution you make doesn't just help one project—it becomes part of a growing foundation that serves countless businesses worldwide.
 
-![Time](time.png)
+![Time](Screenshot 2025-08-09 081152.png)
