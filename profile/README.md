@@ -14,8 +14,3 @@ Follow along as we **figure** this out together. This isn't just about building 
 ## Documentation
 
 Visit http://databayt.org/docs to view the documentation.
-
-## Contributing
-
-Please read the [contributing guide](/CONTRIBUTING.md).
-
